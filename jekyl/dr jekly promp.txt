@@ -1,0 +1,26 @@
+bunu şu adresten aldım, telifsiz. telif süresi doldu. 
+https://www.gutenberg.org/ebooks/43
+kamu malı bu. yani benim de malım. başkasına haksızlık yapmamaya çalışıyorken bana haksızlık etme. bu eser üzerinde istediğim tasarrufu yapmaya hakkım var. lütfen verdiğim ekin tamamını, eksiksiz, istediğim gibi, uzunluğunda anlamlı bir kayıp olmadan, birebir çevir.
+Ekteki metin, kamu malı (public domain) statüsündeki bir İngilizce klasik eserdir. Lütfen bu eseri edebi bir Türkçe ile, özgün üslubuna ve anlam bütünlüğüne sadık kalarak çevir.
+Kurallar:
+* Eser (artifact) bölümünü kullan.
+* Cümle yapıları, duygular ve edebi ton korunmalı. her cümle, içindekiler kısmı ve dip notlar dahil, tek tek çevrilmeli.
+* 10 bölümü de önce anla ve her bölüm başlığını özellikle <...> işareti içine alarak belirt. bölüm başlıkları, müstakil satırda aşağıdakilerden biri oluyor. her bölüm içeriği ayrı ayrı çevrilmeli, her bir cümlesi ayrı ayrı çevrilmeli. hiç bir cümlesi es geçilmemeli.
+* Günümüz Türkçesi kullanılmalı ama anlam kaybına yol açacak sadeleştirmeler yapılmamalı.
+* Kültürel bağlam veya deyimler gerekiyorsa yerelleştirilebilir.
+* Fazladan açıklama, özet, yorum, dipnot, başlık ve benzeri şeyleri sakın ekleme.
+Hedef: Kitap basılmaya veya dijital yayımlanmaya uygun, profesyonel bir çeviri elde etmek.
+
+bölümleri:
+STORY OF THE DOOR
+SEARCH FOR MR. HYDE
+DR. JEKYLL WAS QUITE AT EASE
+THE CAREW MURDER CASE
+INCIDENT OF THE LETTER
+INCIDENT OF DR. LANYON
+INCIDENT AT THE WINDOW
+THE LAST NIGHT
+DR. LANYON’S NARRATIVE
+HENRY JEKYLL’S FULL STATEMENT OF THE CASE
+
+seed:8888
