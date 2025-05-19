@@ -1,0 +1,604 @@
+# Dr. Jekyll ve Mr. Hyde'ın Tuhaf Hikâyesi
+
+Robert Louis Stevenson tarafından
+
+* * *
+
+## İçindekiler
+
+<KAPININ HİKÂYESİ>
+
+<BAY HYDE'IN ARANIŞI>
+
+<DR. JEKYLL GAYET RAHATTI>
+
+<CAREW CİNAYETİ OLAYI>
+
+<MEKTUP OLAYI>
+
+<DR. LANYON OLAYI>
+
+<PENCEREDEKİ OLAY>
+
+<SON GECE>
+
+<DR. LANYON'UN ANLATISI>
+
+<HENRY JEKYLL'IN OLAYA DAİR TAM AÇIKLAMASI>
+
+<KAPININ HİKÂYESİ>
+
+Avukat Bay Utterson, yüzünü hiçbir zaman bir gülümsemenin aydınlatmadığı sert çehreli bir adamdı; konuşmalarında soğuk, az sözlü ve tedirgin; duygularında çekingen; uzun boylu, zayıf, tozlu, kasvetli ve yine de bir şekilde sevimliydi. Dostane toplantılarda ve şarap damağına uygun olduğunda, gözlerinden son derece insani bir şey parıldardı; bu şey, konuşmasına hiçbir zaman yansımasa da, yemek sonrası yüzünün bu sessiz simgelerinde ve daha sık ve daha yüksek sesle yaşamının eylemlerinde kendini gösterirdi. Kendine karşı sertti; yalnız olduğunda, kaliteli şaraplara olan düşkünlüğünü bastırmak için cin içerdi; ve tiyatrodan zevk almasına rağmen, yirmi yıldır bir tiyatronun kapısından içeri girmemişti. Fakat başkalarına karşı onaylanan bir hoşgörüsü vardı; bazen onların suçlarında saklı yüksek ruh hallerine neredeyse kıskanarak şaşırır ve herhangi bir acil durumda azarlamaktan çok yardım etmeye eğilimli olurdu. "Kabil'in sapkınlığına meylederim," derdi tuhaf bir şekilde: "Kardeşimin kendi yolunda cehenneme gitmesine izin veririm." Bu karakteriyle, sık sık düşüşe geçen insanların hayatlarındaki son saygın tanıdık ve son iyi etki olmak kaderi olmuştu. Ve bu tür kişiler odalarına geldikleri sürece, onlara karşı tavırlarında hiçbir değişiklik göstermezdi.
+
+Şüphesiz bu marifet Bay Utterson için kolaydı; çünkü en iyi zamanlarında bile gösterişsizdi ve dostluğu bile benzer bir iyi niyetli hoşgörüye dayanıyor gibiydi. Mütevazı bir insanın işareti, dostluk çemberini fırsatın ellerinden hazır halde kabul etmesidir; ve bu avukatın yoluydu. Arkadaşları ya kendi kanından olanlar ya da en uzun süredir tanıdıklarıydı; sevgileri, sarmaşık gibi, zamanın ürünüydü, nesnede herhangi bir yetenek gerektirmiyorlardı. Bu nedenle, şüphesiz, onu uzak akrabası Bay Richard Enfield'a, şehirde iyi bilinen bir adama bağlayan bağ vardı. Bu ikisinin birbirlerinde ne gördükleri ya da ortak olarak ne tür bir konu bulabildikleri, birçokları için çözülmesi gereken bir bilmeceydi. Pazar yürüyüşlerinde onlarla karşılaşanlar tarafından, onların hiçbir şey söylemedikleri, tuhaf bir şekilde donuk göründükleri ve bir arkadaşın ortaya çıkışını bariz bir rahatlamayla karşıladıkları bildirilirdi. Buna rağmen, iki adam bu gezintilere büyük önem verirdi, bunları haftanın en değerli mücevheri sayar ve bunlardan kesintisiz zevk almak için sadece zevk fırsatlarını bir kenara koymakla kalmaz, aynı zamanda iş çağrılarına bile direnirlerdi.
+
+Bu gezintilerden birinde, yolları onları Londra'nın işlek bir semtindeki yan bir sokağa götürdü. Sokak küçük ve "sessiz" denilen türdendi, ancak hafta içi günlerde canlı bir ticaret yapardı. Sakinlerin hepsi iyi durumda görünüyordu ve hepsi daha da iyi duruma gelmeyi ümit ediyor ve kazançlarının fazlasını şıklığa harcıyorlardı; öyle ki dükkân cepheleri, tıpkı gülümseyen satıcı kadınlar gibi, davet havasıyla bu ana cadde boyunca sıralanmıştı. Pazar günü bile, daha çiçekli cazibelerini örttüğünde ve nispeten boş kaldığında, sokak dingin çevresine tezat oluşturarak, bir ormandaki ateş gibi parlardı; ve yeni boyanmış kepenkleri, iyi cilalanmış pirinçleri ve genel temizliği ve neşeli görünümüyle, anında yoldan geçenin gözünü yakalar ve memnun ederdi.
+
+Bir köşeden iki kapı ileride, doğuya giden sol tarafta, bir avlunun girişiyle sokak bölünmüştü; ve tam o noktada, belirli bir uğursuz bina bloğu sokağa doğru çatısını uzatıyordu. İki katlıydı; alt katta kapı dışında hiçbir pencere göstermiyor, üst katta ise rengi solmuş duvarın kör bir alın kısmı vardı; ve her özelliğinde, uzun ve kirli ihmalin izlerini taşıyordu. Ne zil ne de tokmağı olan kapı, kabarmış ve lekelenmiş durumdaydı. Serseriler girişe sığınır ve panellere kibrit çakardı; çocuklar basamaklar üzerinde dükkâncılık oynardı; okul çocuğu bıçağını pervazlarda denemişti; ve neredeyse bir nesil boyunca, bu rastgele ziyaretçileri kovmak veya onların yaptığı zararları onarmak için kimse ortaya çıkmamıştı.
+
+Bay Enfield ve avukat yan sokağın karşı tarafındaydılar; ancak girişin karşısına geldiklerinde, ilki bastonunu kaldırdı ve işaret etti.
+
+"Hiç o kapıya dikkat ettin mi?" diye sordu; ve arkadaşı olumlu yanıt verdiğinde, "Zihnimde," diye ekledi, "çok tuhaf bir hikâyeyle bağlantılı."
+
+"Öyle mi?" dedi Bay Utterson, sesi hafifçe değişerek, "ve neydi o?"
+
+"Şöyle oldu," diye cevap verdi Bay Enfield: "Dünyanın sonundaki bir yerden eve geliyordum, siyah bir kış sabahının üç saatleriydi ve yolum, şehrin hiçbir şeyin görünmediği bir bölümünden geçiyordu – sadece sokak lambalarından başka. Sokak sokak ve herkes uykuda – sokak sokak, hepsi bir tören için aydınlatılmış gibi ve hepsi bir kilise kadar boş – sonunda artık bir polisin görünüşünü özlemeye başladığım bir ruh haline girdim. Birden, iki figür gördüm: biri iyi bir tempoyla doğuya doğru yürüyen küçük bir adam ve diğeri belki sekiz ya da on yaşında bir kız çocuğu, yan sokaktan olabildiğince hızlı koşuyordu. Evet, efendim, ikisi doğal olarak köşede birbirine çarptı; ve sonra işin korkunç kısmı geldi; çünkü adam sakin bir şekilde çocuğun vücudunu ezdi ve onu yerde çığlık çığlığa bıraktı. Duymak bir şey değil, ama görmek cehennem gibiydi. İnsan gibi değildi; lanetli bir Juggernaut gibiydi. Birkaç bağırış kopardım, topuklarımı yere vurdum, beyefendimi yakaladım ve onu çığlık atan çocuğun etrafında zaten oldukça kalabalık olan bir grubun olduğu yere geri getirdim. Tamamen sakindi ve hiç direnmedi, ama bana öyle çirkin bir bakış attı ki, koşarken olduğu gibi üzerimde ter çıkardı. Dışarı çıkan insanlar kızın kendi ailesiydi; ve çok geçmeden, kızın çağrıldığı doktor da çıkageldi. Evet, çocuk çok kötü değildi, daha çok korkmuştu, doktora göre; ve orada işin bittiğini düşünebilirdiniz. Ama tuhaf bir durum vardı. Beyefendimi ilk görüşte sevmemiştim. Kızın ailesi de öyle, ki bu sadece doğaldı. Ama beni çarpan şey doktorun durumuydu. Her zamanki kesip biçen eczacıydı, belirli bir yaşı ve rengi olmayan, güçlü bir Edinburgh aksanı olan ve bir gayda kadar duygusal. Evet, efendim, o da bizim gibi etkilendi; tutuklumuza her baktığında, o cerrahın onu öldürme arzusuyla hasta ve beyaz olduğunu gördüm. Onun aklından geçenleri biliyordum, tıpkı onun benim aklımdan geçenleri bildiği gibi; ve öldürme seçenek dışı olduğundan, yapabileceğimiz en iyi şeyi yaptık. Adama dedik ki, bu olayı öyle bir skandala dönüştürebilir ve dönüştüreceğiz ki, adı Londra'nın bir ucundan diğerine kadar kokuşmuş hale gelecek. Eğer herhangi bir arkadaşı veya kredisi varsa, onları kaybedeceğini üstlendik. Ve tüm bu süre boyunca, biz onu kızgın bir şekilde sıkıştırırken, kadınları ondan uzak tutmaya çalışıyorduk, çünkü onlar harp kızları kadar vahşilerdi. Böylesine nefret dolu yüzlerin bir çemberini hiç görmedim; ve ortada, bir tür siyah alaycı soğukkanlılıkla adam duruyordu – korkmuştu da, görebiliyordum – ama onu idare ediyordu, efendim, gerçekten de Şeytan gibiydi. 'Bu kazadan sermaye yapmayı seçerseniz,' dedi, 'doğal olarak çaresizim. Hiçbir beyefendi bir sahne yaratmak istemez,' dedi. 'Rakamınızı söyleyin.' Evet, onu çocuğun ailesi için yüz sterline kadar sıkıştırdık; o açıkça direnmek istiyordu; ama hepimizde kötülük anlamına gelen bir şey vardı ve sonunda kabul etti. Sıradaki şey parayı almaktı; ve nereye götürdü bizi tahmin edin ama kapısı olan o yere? – bir anahtar çıkardı, içeri girdi ve kısa bir süre sonra on sterlin altın ve Coutts'tan geriye kalan miktar için bir çekle geri döndü, taşıyana ödenebilir ve hikâyemin noktalarından biri olmasına rağmen söyleyemeyeceğim bir isimle imzalanmış, ancak sadece çok iyi bilinen ve sık sık basılan bir isimdi. Rakam katıydı; ama imza, sadece gerçekse, bundan daha fazlası için iyiydi. Beyefendiye tüm işin şüpheli göründüğünü ve gerçek hayatta, bir insanın sabahın dördünde bir mahzen kapısından girip başka bir adamın çekiyle yaklaşık yüz sterlin çıkmayacağını belirtme özgürlüğünü aldım. Ama o oldukça rahat ve alaycıydı. 'Aklınızı rahatlatın,' dedi, 'bankalar açılana kadar sizinle kalacağım ve çeki kendim nakde çevireceğim.' Bu yüzden hep birlikte, doktor, çocuğun babası, arkadaşımız ve ben yola çıktık ve gecenin geri kalanını odalarımda geçirdik; ve ertesi gün, kahvaltı yaptıktan sonra, topluca bankaya gittik. Çeki kendim verdim ve bunun sahte olduğuna inanmak için her türlü nedenim olduğunu söyledim. Hiç de değil. Çek gerçekti."
+
+"Tut-tut!" dedi Bay Utterson.
+
+"Benim gibi hissettiğini görüyorum," dedi Bay Enfield. "Evet, kötü bir hikâye. Çünkü benim adamım kimsenin ilişkisi olmak istemeyeceği bir herifti, gerçekten lanetli bir adam; ve çeki çeken kişi ise saygınlığın tam da pembe rengi, ayrıca ünlü ve (işi daha da kötüleştiren şey) sizin iyilik yapan dediklerinizden biri. Şantaj, sanırım; dürüst bir adam, gençliğinin bazı çılgınlıkları için burnundan ödüyor. Şantaj Evi, bu yüzden kapısı olan o yere dediğim isim. Gerçi bu bile, bilirsin, hepsini açıklamaktan uzak," dedi ve bu sözlerle düşünceye daldı.
+
+Bay Utterson'ın oldukça aniden sormasıyla buradan çağrıldı: "Ve çeki çekenin orada yaşayıp yaşamadığını bilmiyorsun?"
+
+"Muhtemel bir yer, değil mi?" dedi Bay Enfield. "Ama adresini fark etme şansım oldu; bir meydanda ya da öyle bir yerde yaşıyor."
+
+"Ve kapısı olan yer hakkında hiç sormadın?" dedi Bay Utterson.
+
+"Hayır, efendim; bir zarafetim vardı," diye cevap verdi. "Soru sormak konusunda çok güçlü hissediyorum; bu, çok fazla kıyamet günü tarzından pay alıyor. Bir soru başlatırsın ve bu bir taş başlatmak gibidir. Bir tepenin üstünde sakince oturursun; ve taş gider, başkalarını başlatır; ve çok geçmeden bazı uysal yaşlı kuşlar (düşüneceğin en son kişi) kendi arka bahçesinde kafasına bir darbe yer ve aile adını değiştirmek zorunda kalır. Hayır efendim, bunu kendime kural edindim: ne kadar Tuhaf Sokak gibi görünürse, o kadar az sorarım."
+
+"Çok iyi bir kural da," dedi avukat.
+
+"Ama yeri kendim inceledim," diye devam etti Bay Enfield. "Belli ki bu ev değil. Başka kapı yok ve kimse o kapıdan girip çıkmıyor, ancak büyük bir süre zarfında, ara sıra maceramdaki beyefendi. Birinci katta avluya bakan üç pencere var; aşağıda hiç yok; pencereler her zaman kapalı ama temiz. Ve sonra genellikle duman çıkaran bir baca var; yani birileri orada yaşıyor olmalı. Ama yine de bu kadar kesin değil; çünkü binalar avlunun etrafında öyle sıkışık ki, birinin nerede bitip diğerinin nerede başladığını söylemek zor."
+
+İkili bir süre daha sessizce yürüdü; sonra "Enfield," dedi Bay Utterson, "bu senin iyi bir kuralın."
+
+"Evet, öyle düşünüyorum," diye cevapladı Enfield.
+
+"Ama buna rağmen," diye devam etti avukat, "sormak istediğim bir nokta var. Çocuğun üzerinden yürüyen o adamın adını sormak istiyorum."
+
+"Şey," dedi Bay Enfield, "bunun ne zarar vereceğini göremiyorum. Hyde adında bir adamdı."
+
+"Hm," dedi Bay Utterson. "Görünüşte nasıl bir adam?"
+
+"Tanımlaması kolay değil. Görünüşünde bir şeyler yanlış; hoş olmayan, düpedüz iğrenç bir şey. Hiç bu kadar hoşlanmadığım bir adam görmedim ve yine de neden olduğunu pek bilmiyorum. Bir yerde deforme olmalı; güçlü bir deformasyon hissi veriyor, ancak noktayı belirtemem. Olağanüstü görünümlü bir adam ve yine de gerçekten olağandışı hiçbir şey söyleyemem. Hayır, efendim; bundan bir sonuç çıkaramıyorum; onu tanımlayamıyorum. Ve hafıza eksikliği değil; çünkü onu şu anda görebildiğimi beyan ediyorum."
+
+Bay Utterson yine bir süre sessizce yürüdü ve açıkça bir düşünce ağırlığı altındaydı. "Bir anahtar kullandığından emin misin?" diye sordu sonunda.
+
+"Sevgili dostum..." diye başladı Enfield, şaşkınlıktan kendinden çıkmış.
+
+"Evet, biliyorum," dedi Utterson; "tuhaf görünmesi gerektiğini biliyorum. Aslında, diğer tarafın adını sormuyorsam, bunun nedeni onu zaten biliyor olmam. Görüyorsun, Richard, hikâyen yerine ulaştı. Herhangi bir noktada yanlışlık yaptıysan, düzeltmen daha iyi olur."
+
+"Beni uyarabilirdin," dedi diğeri biraz küskünlükle. "Ama senin dediğin gibi, pedantik bir şekilde doğruydum. Herifin bir anahtarı vardı; ve daha da fazlası, hâlâ var. Bir hafta önce bile onu kullandığını gördüm."
+
+Bay Utterson derinden iç çekti ama hiçbir şey söylemedi; ve genç adam kısa bir süre sonra devam etti. "İşte hiçbir şey söylememek için başka bir ders," dedi. "Uzun dilimden utanıyorum. Bir daha buna hiç değinmemek üzere bir anlaşma yapalım."
+
+"Tüm kalbimle," dedi avukat. "Bunun üzerine el sıkışıyorum, Richard."
+
+<BAY HYDE'IN ARANIŞI>
+
+O akşam Bay Utterson bekâr evine kasvetli bir ruh haliyle geldi ve yemeğini iştahsız yedi. Pazar günleri âdeti, bu yemek bittikten sonra, okuma masasında kuru bir ilahiyat cildiyle ateşin yanına oturmak ve yakındaki kilisenin saati on ikiyi vurana kadar, bu saatten sonra akıllıca ve minnetle yatağa giderdi. Ancak bu gece sofra kaldırıldıktan sonra, bir mum aldı ve iş odasına geçti. Orada kasasını açtı, en özel bölümünden zarfın üzerinde Dr. Jekyll'in Vasiyeti olarak belirtilen bir belgeyi çıkardı ve kaşları çatık bir şekilde içeriğini incelemeye oturdu. Vasiyet elyazısıyla yazılmıştı, çünkü Bay Utterson şimdi yapıldıktan sonra ondan sorumlu olsa da, yapılmasında en ufak bir yardımda bulunmayı reddetmişti; belge yalnızca Henry Jekyll, M.D., D.C.L., L.L.D., F.R.S. vb.'nin vefatı durumunda tüm mal varlığının "arkadaşı ve velinimet Edward Hyde"ın eline geçmesini sağlamakla kalmıyor, aynı zamanda Dr. Jekyll'in "ortadan kaybolması veya üç takvim ayını aşan açıklanamayan bir yokluğu" durumunda, söz konusu Edward Hyde'ın, doktorun ev halkı üyelerine birkaç küçük meblağın ödenmesi dışında başka bir yük veya yükümlülük olmaksızın, bahsi geçen Henry Jekyll'in ayakkabılarına gecikmeden geçeceğini belirtiyordu. Bu belge uzun zamandır avukatın gözünde bir dikendi. Hem bir avukat olarak hem de hayatın sağlıklı ve olağan yönlerini seven biri olarak, hayalperestliğin ölçüsüzlük olduğunu düşünüyordu. Ve şimdiye kadar Bay Hyde hakkındaki cehaleti öfkesini kabartmıştı; şimdi, ani bir dönüşle, bilgisiydi. İsmin yalnızca bir isim olduğu ve hakkında daha fazla bir şey öğrenemediği zaman bile yeterince kötüydü. İğrenç niteliklerle giydirilmeye başladığında daha da kötüydü; ve gözünü uzun süredir yanıltan kaygan, maddesiz sislerin içinden, birdenbire bir şeytanın kesin, belirgin görüntüsü fırladı.
+
+"Deliliğin olduğunu düşündüm," dedi, iğrenç kâğıdı kasaya geri koyarken, "ve şimdi utançtan korkmaya başlıyorum."
+
+Bununla mumunu söndürdü, bir palto giydi ve tıp kalesi olan Cavendish Meydanı yönünde yola çıktı, arkadaşı büyük Dr. Lanyon'ın evi ve kalabalık hastalarını kabul ettiği yer. "Eğer biri biliyorsa, o Lanyon olacaktır," diye düşünmüştü.
+
+Ciddi görünüşlü uşak onu tanıdı ve karşıladı; hiçbir gecikme aşamasına maruz kalmadı, ancak doğrudan kapıdan Dr. Lanyon'un yalnız başına şarabının başında oturduğu yemek odasına götürüldü. Bu, yürekli, sağlıklı, şık, kırmızı yüzlü, zamanından önce beyazlamış saçları ve gürültülü ve kararlı tavırlarıyla bir beyefendiydi. Bay Utterson'ı görünce, sandalyesinden fırladı ve onu iki eliyle karşıladı. Göze çarpan samimiyet, adamın tarzı olduğu üzere, biraz teatral görünüyordu; ama gerçek bir duyguya dayanıyordu. Çünkü bu ikisi eski arkadaştı, hem okulda hem de üniversitede eski yoldaşlardı, ikisi de kendilerine ve birbirlerine saygı duyardı ve her zaman takip etmeyen şey, birbirlerinin şirketinden tamamen zevk alan insanlardı.
+
+Biraz dolambaçlı konuşmalardan sonra, avukat zihnini rahatsız eden konuyu açtı.
+
+"Sanırım, Lanyon," dedi, "sen ve ben Henry Jekyll'in en eski iki arkadaşıyız?"
+
+"Keşke arkadaşlar daha genç olsa," diye güldü Dr. Lanyon. "Ama sanırım öyleyiz. Ve bunun ne önemi var? Şimdi onu pek az görüyorum."
+
+"Gerçekten mi?" dedi Utterson. "Ortak bir bağınız olduğunu düşünmüştüm."
+
+"Vardı," diye cevap verdi. "Ama Henry Jekyll'in benim için fazla hayalperest olmasının üzerinden on yıldan fazla oldu. O yanlış yapmaya başladı, zihinsel olarak yanlış; ve elbette onunla ilgilenmeye devam etsem de, eski günlerin hatrına, dedikleri gibi, adamı çok az görüyorum ve gördüm. Böyle bilim dışı saçmalıklar," diye ekledi doktor, aniden mora dönüşerek, "Damon ve Pythias'ı bile birbirinden uzaklaştırırdı."
+
+Bu küçük öfke patlaması Bay Utterson için bir rahatlama oldu. "Sadece bir bilim noktasında anlaşmazlığa düştüler," diye düşündü; ve bilimsel tutkuları olmayan bir adam olduğundan (hukuki yazışmalar konusu dışında), hatta ekledi: "Bundan daha kötü bir şey değil!" Arkadaşına sakinleşmesi için birkaç saniye verdi ve sonra sormak istediği soruya yaklaştı. "Onun bir himayesine hiç rastladın mı—Hyde isimli biri?" diye sordu.
+
+"Hyde?" diye tekrarladı Lanyon. "Hayır. Hiç duymadım. Benim zamanımdan sonra."
+
+Bu, avukatın yanında büyük, karanlık yatağa geri götürdüğü bilgi miktarıydı, sabahın erken saatleri büyümeye başlayana kadar üzerinde bir o yana bir bu yana döndü. Çalışan zihnine, sadece karanlıkta çalışan ve sorularla kuşatılmış bir geceye az rahat veren bir geceydi.
+
+Kilise çanları Bay Utterson'ın evine çok yakın olan kilisede altıyı çaldı ve hâlâ sorunu çözmeye çalışıyordu. Şimdiye kadar onu sadece entelektüel tarafından etkilemişti; ama şimdi hayal gücü de devredeydi, daha doğrusu esir alınmıştı; ve yatağında yatıp gecenin derin karanlığında ve perdelenmiş odada döndükçe, Bay Enfield'ın hikâyesi zihninden aydınlatılmış resimlerin bir rulosu gibi geçti. Bir gece şehrinin büyük lamba alanını; sonra hızla yürüyen bir adamın figürünü; doktorun yanından koşan bir çocuğu; ve sonra bunlar karşılaştı ve o insani Juggernaut çocuğu ezdi ve çığlıklarına aldırmadan geçti. Ya da zengin bir evdeki bir odayı görecekti, arkadaşı orada uyuyor, rüyalar görüyor ve rüyalarına gülümsüyordu; ve sonra o odanın kapısı açılırdı, yatağın perdeleri ayrılır, uyuyan kişi uyandırılır ve işte! Yanında bir figür durur, o ölü saatte bile kalkıp emrini yerine getirmesi için güç verilmiş. Bu iki aşamadaki figür, bütün gece avukatı rahatsız etti; ve herhangi bir zamanda hafifçe uyukladıysa, uyuyan evlerin içinden daha gizlice kayar ya da daha hızlı ve daha da hızlı, hatta baş dönmesine kadar, sokak lambalarıyla aydınlatılmış şehrin daha geniş labirentlerinde hareket eder, ve her sokak köşesinde bir çocuğu ezer ve onu çığlık çığlığa bırakır görmek içindi. Ve figürün hâlâ onu tanıyabileceği bir yüzü yoktu; rüyalarında bile, yüzü yoktu ya da onu şaşırtan ve gözleri önünde eriyen bir yüzü vardı; ve böylece, avukatın zihninde olağanüstü güçlü, neredeyse aşırı bir şekilde gerçek Bay Hyde'ın özelliklerini görme merakı büyüdü ve hızla gelişti. Bir kez gözlerini ona dikseydi, gizeminin hafifleyeceğini ve belki tamamen ortadan kalkacağını düşündü, iyi incelendiğinde gizemli şeylerin alışkanlığı olduğu gibi. Arkadaşının garip tercihinin veya esaretinin (hangisi derseniz) ve hatta vasiyetnamenin şaşırtıcı maddesinin bir nedenini görebilirdi. En azından görmeye değer bir yüz olurdu: merhamet bağrı olmayan bir adamın yüzü: etkilenmez Enfield'ın zihninde, sadece kendini göstererek, kalıcı bir nefret ruhu uyandıran bir yüz.
+
+O andan itibaren, Bay Utterson dükkânların olduğu yan sokaktaki kapının çevresinde dolaşmaya başladı. Sabah ofis saatlerinden önce, öğlen iş bolken ve zaman az iken, gece sisli şehir ayının yüzü altında, her ışıkta ve yalnızlık veya kalabalık saatlerinde, avukat seçtiği görevde bulunuyordu.
+
+"Eğer o Bay Hyde ise," diye düşünmüştü, "ben de Bay Seek olacağım."
+
+Ve sonunda sabrı ödüllendirildi. Güzel kuru bir geceydi; havada don vardı; sokaklar bir balo salonu zemini kadar temizdi; lambalar, herhangi bir rüzgârla sarsılmadan, düzenli bir ışık ve gölge deseni çiziyordu. Saat on olduğunda, dükkânlar kapandığında, yan sokak çok ıssızdı ve etrafındaki Londra'nın alçak uğultuya rağmen, çok sessizdi. Küçük sesler uzağa taşınırdı; evlerden gelen ev sesleri yolun her iki tarafından da net bir şekilde duyulabiliyordu; ve herhangi bir yolcunun yaklaşmasının söylentisi, onu uzun bir süre önceden haber veriyordu. Bay Utterson bir süredir görevindeydi ve tuhaf hafif bir ayak sesinin yaklaştığının farkına vardı. Gece devriyelerinin seyri sırasında, tek bir kişinin ayak seslerinin, şehrin geniş uğultu ve gürültüsünden, henüz çok uzaktayken, aniden belirgin bir şekilde fırlamasının tuhaf etkisine uzun zamandır alışmıştı. Ancak dikkati hiç bu kadar keskin ve kararlı bir şekilde çekilmemişti; ve güçlü, batıl bir başarı önsezisiyle, avluya girişine çekildi.
+
+Adımlar hızla yaklaştı ve sokağın sonunu dönerken aniden daha yüksek çıktı. Avukat, girişten bakınca, ne tür bir adamla uğraşacağını kısa sürede görebildi. Küçük ve çok sade giyimli bir adamdı ve görünüşü, o mesafeden bile, izleyicinin eğilimini güçlü bir şekilde ters etkiledi. Ancak doğruca kapıya ilerledi, zaman kazanmak için yolu geçerek; ve yaklaştıkça, eve yaklaşan biri gibi cebinden bir anahtar çıkardı.
+
+Bay Utterson dışarı çıktı ve geçerken omzuna dokundu. "Bay Hyde, sanırım?"
+
+Bay Hyde, ıslık gibi bir nefes alarak büzüldü. Ancak korkusu sadece anlıktı; ve avukatın yüzüne bakmasa da, oldukça sakin bir şekilde cevap verdi: "Bu benim adım. Ne istiyorsunuz?"
+
+"İçeri girdiğinizi görüyorum," diye cevapladı avukat. "Ben Dr. Jekyll'in eski bir arkadaşıyım—Gaunt Sokağı'ndan Bay Utterson—adımı duymuş olmalısınız; ve sizi böyle uygun bir şekilde karşılayınca, beni içeri alabileceğinizi düşündüm."
+
+"Dr. Jekyll'i bulamayacaksınız; evden uzakta," diye cevapladı Bay Hyde, anahtarı yerleştirirken. Ve sonra aniden, ama hâlâ yukarı bakmadan, "Beni nasıl tanıdınız?" diye sordu.
+
+"Sizin tarafınızdan," dedi Bay Utterson, "bana bir iyilik yapar mısınız?"
+
+"Memnuniyetle," diye cevapladı diğeri. "Ne olacak?"
+
+"Yüzünüzü görmeme izin verir misiniz?" diye sordu avukat.
+
+Bay Hyde tereddüt ediyor gibiydi ve sonra, sanki ani bir düşünceyle, meydan okurcasına yüzünü döndü; ve ikili birkaç saniye boyunca oldukça dikkatle birbirine baktı. "Şimdi sizi tekrar tanıyacağım," dedi Bay Utterson. "Bu yararlı olabilir."
+
+"Evet," diye cevapladı Bay Hyde, "karşılaşmamız iyi oldu; ve bu arada, adresimi bilmelisiniz." Ve Soho'daki bir sokağın numarasını verdi.
+
+"Tanrım!" diye düşündü Bay Utterson, "o da vasiyeti mi düşünüyordu?" Ama duygularını kendine sakladı ve sadece adres için homurdandı.
+
+"Ve şimdi," dedi diğeri, "beni nasıl tanıdınız?"
+
+"Tanımlamayla," diye cevap verdi.
+
+"Kimin tanımlaması?"
+
+"Ortak arkadaşlarımız var," dedi Bay Utterson.
+
+"Ortak arkadaşlar," diye yankıladı Bay Hyde, biraz boğuk bir sesle. "Kimler onlar?"
+
+"Jekyll, örneğin," dedi avukat.
+
+"O size hiç anlatmadı," diye bağırdı Bay Hyde, öfke kızarıklığıyla. "Yalan söyleyeceğinizi düşünmemiştim."
+
+"Hadi," dedi Bay Utterson, "bu uygun bir dil değil."
+
+Diğeri vahşi bir kahkaha attı; ve bir sonraki anda, olağanüstü bir çabuklukla, kapının kilidini açmış ve eve kaybolmuştu.
+
+Avukat, Bay Hyde onu terk ettiğinde, bir süre durdu, huzursuzluğun resmi. Sonra yavaşça sokakta yürümeye başladı, zihinsel bir karmaşa içindeki bir insan gibi her adımda duruyor ve elini alnına koyuyordu. Yürürken tartıştığı sorun, nadiren çözülen bir sınıftandı. Bay Hyde solgun ve cücemsi, deformiteye dair bir izlenim veriyordu, adlandırılabilir bir şekil bozukluğu olmaksızın, hoş olmayan bir gülümsemeye sahipti, avukata karşı korkaklık ve cesaretin öldürücü bir karışımıyla davranmıştı ve boğuk, fısıltılı ve biraz kırık bir sesle konuşmuştu; tüm bunlar ona karşı puanlardı, ancak tüm bunlar bir araya gelerek bile Bay Utterson'ın ona karşı duyduğu şimdiye kadar bilinmeyen tiksinti, nefret ve korkuyu açıklayamazdı. "Başka bir şey olmalı," dedi şaşkın beyefendi. "Daha fazla bir şey var, adını koyabilsem. Tanrı korusun, adam zor insan görünüyor! Mağara adam diyelim mi? ya da bu Dr. Fell'in eski hikâyesi mi? Ya da bu, kil kıtasını bu şekilde dışarı sızdıran ve dönüştüren kirli bir ruhun yalnızca radyasyonu mu? Sonuncusu, sanırım; çünkü, ey benim zavallı yaşlı Harry Jekyll'im, şeytanın imzasını bir yüzde okuduysam, o yeni arkadaşınınkidir."
+
+Yan sokaktan köşeyi dönünce, eski, güzel evlerin bir meydanı vardı, şimdi çoğunlukla yüksek konumlarından düşüp dairelere ve odalara bölünmüş ve her türlü ve koşuldaki insanlara kiralanmış; harita gravürcüleri, mimarlar, şüpheli avukatlar ve belirsiz girişimlerin acenteleri. Bununla birlikte, bir ev, köşeden ikincisi, hâlâ tamamıyla işgal ediliyordu; ve Bay Utterson, büyük bir zenginlik ve konfor havası taşıyan, şimdi fener dışında karanlığa gömülmüş olan bu evin kapısında durdu ve kapıyı çaldı. İyi giyimli, yaşlı bir uşak kapıyı açtı.
+
+"Dr. Jekyll evde mi, Poole?" diye sordu avukat.
+
+"Bakacağım, Bay Utterson," dedi Poole, konuşurken ziyaretçiyi büyük, alçak tavanlı, rahat, bayrak taşlarıyla döşenmiş, (bir kır evi tarzında) parlak, açık bir ateşle ısıtılan ve pahalı meşe dolaplarla döşenmiş bir hole alarak. "Ateşin yanında burada bekleyecek misiniz, efendim? Yoksa yemek odasında size bir ışık vereyim mi?"
+
+"Burada, teşekkür ederim," dedi avukat ve uzun korkuluğa yaklaştı ve yaslandı. Bu hol, şimdi yalnız bırakıldığı yer, doktor arkadaşının bir evcil fantezisiydi; ve Utterson'ın kendisi de buradan Londra'daki en hoş oda olarak söz etmeye alışkındı. Ancak bu gece kanında bir ürperti vardı; Hyde'ın yüzü hafızasında ağır oturuyordu; hayatta (kendisi için nadir olan) bir bulantı ve tiksinti hissetti; ve ruhunun karanlığında, ocak ateşinin cilalı dolaplardaki titreşiminde ve tavandaki gölgenin huzursuz başlangıcında bir tehdit okuyor gibiydi. Poole kısa bir süre sonra Dr. Jekyll'in dışarı çıktığını bildirmek için geri döndüğünde, rahatlamasından utandı.
+
+"Poole," dedi, "Bay Hyde'ı eski teşrih odasından girer gördüm. Bu doğru mu, Dr. Jekyll evde değilken?"
+
+"Tamamen doğru, Bay Utterson, efendim," diye cevapladı uşak. "Bay Hyde'ın bir anahtarı var."
+
+"Efendiniz o genç adama büyük bir güven duyuyor gibi görünüyor, Poole," diye devam etti diğeri düşünceli bir şekilde.
+
+"Evet, efendim, gerçekten öyle," dedi Poole. "Hepimizin ona itaat etme emirlerimiz var."
+
+"Sanırım Bay Hyde ile hiç tanışmadım?" diye sordu Utterson.
+
+"Ah, hayır, efendim. O hiç burada yemek yemez," diye cevapladı kâhya. "Gerçekten de onu evin bu tarafında çok az görürüz; çoğunlukla laboratuvardan gelir ve gider."
+
+"Pekâlâ, iyi geceler, Poole."
+
+"İyi geceler, Bay Utterson."
+
+Ve avukat çok ağır bir kalple eve doğru yola çıktı. "Zavallı Harry Jekyll," diye düşündü, "zihnimde onun derin sularda olduğuna dair bir önsezi var! Gençken vahşiydi; uzun zaman önce elbette; ama Tanrı'nın yasasında, zaman aşımı kanunu yoktur. Evet, öyle olmalı; eski bir günahın hayaleti, gizlenmiş bir utancın kanseri: ceza, hafıza unutmuş ve öz sevgi hatayı affetmişken, yıllar sonra pede claudo geliyor." Ve avukat, bu düşünceden korkmuş, bir süre kendi geçmişinde, hafızanın tüm köşelerinde, herhangi bir eski kötülüğün eski bir kutudan fırlayıp ışığa çıkmaması için geniş bir şekilde arandı. Geçmişi oldukça kusursuzdu; çok az insan hayatının kayıtlarını daha az korkuyla okuyabilirdi; ve yine de yaptığı birçok kötü şeyden toza kadar alçaltıldı ve yapmaya çok yaklaştığı ancak kaçındığı birçok şey tarafından tekrar ayık ve korkulu bir minnettarlığa yükseltildi. Ve sonra, önceki konusuna dönerek, umut kıvılcımı kavradı. "Bu Hyde Efendisi, incelense," diye düşündü, "kendine ait sırları olmalı; kendi görünüşünden karanlık sırlar; zavallı Jekyll'in en kötüleri bile güneş ışığı gibi olacak sırlar. İşler bu şekilde devam edemez. Hırsız gibi Harry'nin yatağının kenarına gelen bu yaratığı düşündükçe içim ürperiyor; zavallı Harry, nasıl bir uyanış! Ve tehlikesi; çünkü bu Hyde vasiyetnamenin varlığından şüphelenirse, mirasına kavuşmak için sabırsızlanabilir. Evet, omuzlarımı çarkın altına koymalıyım — Jekyll izin verirse," diye ekledi, "Jekyll sadece izin verirse." Çünkü bir kez daha zihninin gözünün önünde, bir şeffaflık kadar açık bir şekilde, vasiyetnamenin tuhaf maddelerini gördü.
+
+<DR. JEKYLL GAYET RAHATTI>
+
+İki hafta sonra, şans eseri, doktor Bay Utterson'ı yemeğe davet etti ve doktor evinde beş ya da altı başka misafir, hepsi alanlarında tanınmış ve tıbba gösterilen takdirinin göstergeleri olarak ağırladı. Ve Bay Utterson, diğerlerinin gitmesinden sonra, her zamanki gibi kalmak için düzenledi. Bu, yeni veya olağandışı bir şey değildi. Nerede Utterson varsa, öyle olmasına alışılmıştı. Jekyll'e onu evinde tutmanın memnuniyetini verdi ve onu kalmaya zorladı. Büyük, yakışıklı, elli yaşındaki melankolik yüzlü, belki de biraz numara yapan, ama gözlerinde en iyi türden zekânın ve iyiliğin ışıltıları olan biri oturdu. Şöminenin karşısında, tütün dolu oturma odasında, ev sahibi ve misafirleri arasında çok samimi bir hava vardı; ve avukat son iki haftanın sorularını erteledi.
+
+"Poole'dan duymuştum," dedi, "yeni faaliyetiniz hakkında. O genç Hyde nedir?"
+
+Doktor gülümsedi. "Bu hikâyeyi açmayın. Bu konuda aptallık yaptığımı söylemek zorunda olduğunu biliyorum."
+
+"Evet," dedi Utterson, "öyle duydum."
+
+"Eh, senden duyduklarım aptalca," dedi doktor, biraz resmi bir şekilde, "ama konu bu kadar ilerlemedi. Sevgili Utterson, sen bunu anlayacaksın; benim durumum rahatsız edici, çok tuhaf; olağandışı bir durumun olağandışı olduğu türden."
+
+"Evet, evet," dedi avukat. "Sana sormayacağım; ama ısrar etmeden sormak istiyorum, aramızdaki anlaşmanın pek değişmediğini?"
+
+"Değişmedi," dedi misafir. "Ve neyi ima ettiğini biliyorum; ve hatta kendini rahatsız etmenden hoşlanıyorum; çünkü durumumu anladığını biliyorum. Ama gerçekten de, Utterson, dürüstçe söylemem gerekirse, bu çok tuhaf; en tuhafı."
+
+Ve konuşma, neredeyse fark edilmeyecek şekilde, diğer konulara kaydı.
+
+"Senin Lanyon'ı gördüm," dedi bir noktada ev sahibi; "ve Peygamberler adlı o hikâyede, birincisi kuruyor, sen ise hâlâ gençsin olgusuyla karşılaştım; onun yüzünden, bak! Öldürücü bir şekilde hasta görünüyor."
+
+"Büyük doktorum Lanyon'ın düşüncelerimle ilgili bazı bilimsel zırvalıklar hakkında heyecanlanması çok mu?" diye sordu Jekyll. "Bunun için onu suçlamıyorum; ama yine de büyük bir aptal. Hayatımda bundan daha hayal kırıklığına uğramamıştım; öyle bir adam, katılaşmış ön yargıları olan. Çok da üzüldüm, beklerdim ki daha fazla kavrayışlı olsun."
+
+"Onu bundan daha iyi tanıman gerekir," dedi Utterson.
+
+"Öyle, öyle," dedi diğeri, "bir söz söylemeden önce düşüncem lazımdı. Ama gerçekten bu sadece akademik bir nokta ve bizim dostluğumuzun bozulmasını diliyorum."
+
+"Bu konuda onunla hiçbir kavgan olmaz," dedi avukat.
+
+"Olmaz sanırım," dedi doktor, biraz buruk bir şekilde gülerek ve konuşmasına devam etti: "Seni uyarmak zorundayım, Utterson, eğer bu devam ederse, bu kara kanatlı melek Lanyon'dan değil senden yükselecek."
+
+"Gerçek mi bu?" dedi avukat.
+
+"Evet, gerçek," diye cevaladı diğeri. "O çirkin ve ilgilendiğin Bay Hyde'ıma karşı kıskançlık, değil mi? Gel bakalım, ona güven. Bana emin ol ki ona değer veririm."
+
+Utterson bir dakika kadar duraksadı, ateşe bakarak. "Çok ona bağlı mısın?" diye sordu.
+
+"Demek istiyorum... Onun için bir vasiyetname hazırladım; uzun zaman önce."
+
+"Biliyordum," dedi Utterson.
+
+"Evet," diyen Jekyll, "yardımını istemek için çok fazla güveniyordum. Çalışmanda, bunu benim 'hayalperestliğim' olarak adlandırdığını biliyorum; ve bu anlaşmada garip şeyler olduğunu kabul ediyorum. Aslında, kelimenin alışılmış anlamında, adamdan memnun olmasam bile —ki yemin ederim deli değilim— bir çok bilimsel amacım var ve bana öyle güven... Anladığım kadarıyla Hyde hakkında hiçbir şey bilmiyorsun? Buna hazırdım; onun istememesi çok tuhaf. Ama sonuçta, eğer bir gün seninle karşılaşırsanız, ona adil olmaya çalış; şimdi, ona ilgi göstermeni diliyorum. Utterson, ölürsem, şimdi, bana söz veriyor musun ona adil olacağına?"
+
+Avukat, ciddi bir şekilde "Söz veriyorum." dedi.
+
+"Devam etmeni ve kendine bakmanı biliyorum," diye devam etti avukat, "Ve gerçekten seninle samimiyetimi koruduğum için beni bağışlamalısın, ama söylemek zorundayım; bu Hyde'ı sevmiyorum, Utterson."
+
+"Bu çok üzücü; öyle olsun," dedi Jekyll, rahatlamış görünerek. "Seni suçlamıyorum; nefret edildiğini de biliyorum. Yine de söz veriyorum, Utterson, ona ilgi göstereceğim. Eninde sonunda seni ikna edeceğim; sadece şimdi beni affet."
+
+Utterson, düşünceli bir şekilde "Hiç şüphe yok, nedeni vardır," dedi.
+
+"Doğru, çok doğru" dedi Jekyll. "Ve artık seni şok etmeyi bırakacağım; sana sadece bunu söyleyebilirim: bu mesele, değerlendirip hükmedebildiğim kadarıyla, bilimsel. 'Salt iftiracı deliliği' diyebilirsiniz. Ben sadece adil şartlar altında hükmetmek isteyen bağımsız fikir adamıyım."
+
+"Jekyll," dedi Utterson, "ondan uzak durman gerektiğini hissediyorum."
+
+"Ah! Bahsetmeye başladım; yine, koymak zorunda olduğuuğum yerde," dedi Jekyll. "Ama seni şok eden çatışma söyleyeyim; Hyde, bunu nefes kadar kolay, geliyor."
+
+Bu noktada şöminede ateş parladı ve ev sahibinin yüzü irkilmiş ve solmuş göründü.
+
+"Utterson, teşekkürler, büyük yerleşime," dedi arkadaşı. "Ne harikulade bir ev, bu ateşi ne zaman seviyorum. Haydi şimdi uyu, çünkü sana güven veriyorum, seni Hyde'ıdan kurtaracağım, kırılmaz şekilde."
+
+Avukat, düşünceli bir şekilde evine döndü. Zavallı Harry Jekyll, düşündü, hatalı bir zihin yoluna girmiş. Gençken kötülükler yapmıştı, şüphesiz; ve şüphesiz bugün cezasını ödüyordu. Kaba bir ahlak küstümesiyle mahkum etmek istemiyordu. "Elbette, özgürce günahı var,' diye kendi kendine söyledi, 'olduğu için, insanları çok fazla suçlayamam. özgürce, ne yazık ki açık açık yaşıyorum, tuhaf bir laf, dürüstçe yaşıyorum ve tutarlı olarak, açıkça erdemden uzak. Bu ona yakışmaz Jekyll gibi bir adam, böyle kaprisli davranmaz. Hyde'da bir kusur var; karanlık bir kusur; çünkü onu gözlemeyen ben bile, onun varlığında, kaybettiğim ve gözyaşlarını hissettiğim garip bir iğrenmeyi hatırlıyorum. Garip ve ilginç." Ve avukat bir süre yatakta ayna karşısından, kızarmış bir yüzle karanlık düşündü. "Ne, eğer yoksa, doğumundan beri belirli bir şekilde doğmuş olsaydı ve bilgelik Carew nefret ettiği, tanımlama? Evet, muhtemelen, zavallı Harry'nin hali. Hayır, doğrusu eğer bu doğruysa, o zavallı Hyde, çünkü kimse dünyaya böyle gelmiş olamaz. Ve bütün bunların arkasında, tedirgin edici bir soru var: eğer bu maske düşerse, yüzde çıkacak?"
+
+<CAREW CİNAYETİ OLAYI>
+
+Yaklaşık bir yıl sonra, 18--'de, şehir, özellikle korkunç bir suçla ve fail kişinin tanınmış konumu nedeniyle şok oldu.
+
+Detaylar tuhaf ve korkunçtu. Bir hizmetçi kız tek başına evde yaşıyordu, evin efendisinin uzakta olduğunu düşünerek saat on bir civarında üst kattaki bir odadan pencerenin yanındaki yatağın üzerine oturdu. Eski güzel evlerin popüler olduğu en muhafazakar Londra'nın bu bölümünde, gecenin ruh durumuyla aydınlanmış, havanın ılımlı ve mavi bir çiyle hafif bulutlanmış olduğunda, ay tam dolunayda parlaktı. Bu romantik banliyö, anlaşılan, hayale dalmış kız, köşede bir beyefendinin nazik ve yaşlı görünüşlü, gümüş saçlı, onu karşıdan gelen daha küçük ve çok kötü giyimli bir kişi ile karşılaştı. Yaşlı beyefendi, üzerine geleni fark ettiğinde (ya da öyle görünüyordu) nazik bir eğilimle ona yaklaştı ve konuşmaya başladı. Kıza göre, konuşmanın tonu çok kibardı ve ona sorduğu soru belki biraz şüpheli bir şekildeydi, "Londra Köprüsü'ne nasıl gideceğini mi soruyor?" Sonra bir şey oldu. Yaşlı beyefendi şüphesiz bir yanlış anlamayla, görünüşte kızdı ve bastonunu salladı; diğeri aniden ileri atıldı ve tarife sığmaz bir öfkeyle saldırdı, onu yere devirdi ve korkunç bir acımasızlıkla üzerine bastı, can çekişen bir kişiyi defalarca ezen beyefendinin çıkış sesi artık tanınmaz şekilde şişmiş vücutla, kıza işitilen çok uzaktan sesleri dehşet ve öfkeyle doldurdu.
+
+Sonra katil, kırık bir sopayı yarısını bırakarak ve kurbanın üzerinden altın saatini soyarak caddeyi hızla terk etti. Kız bayıldı ve dakikalar geçti. Katil uzun süre önce kaçmıştı; ama kurban bütün uzunluğuyla cadde ortasında yatıyordu, inanılmaz bir şekilde yaralanmış. Baston, tuhaf bir yapı malzemesinden yapılmış, dayanıklı ve güzel, ama kırık parçasında Sir Danvers Carew, M.P.'nin adını taşıyan bir tanımlama bulunuyordu.
+
+Bu, sabah saatleri polis merkezine ağır sekte vurdu ve Carew, M.P.'nin çeyrek yüzyıl boyunca arandığı. Her şeyin kurbanın özellikleriyle uyuştuğu. Cinayet sebebi çözmek zordu. Doğru ki kurban öldüğünde, değerli bir saat taşıyordu; ama onun cüzdanı, altın ve birçok değerli ziynet, soyulmamıştı. Diğer yandan, adamın görünüşü yabanıl bir öfkeyi çok çelişkili şekilde, tanıklar nerdeyse hiçbir kışkırtma görmedi. Ve şahit, şüphe edilemez gerçekçilikle, küçük adamı tarif etmişti, kendisini ilk olarak tanıdı ve daha sonra betimledi, bir polis, şüphelinin Bay Edward Hyde ile aynı kişi olduğunu, özellikle ailenin avukatı Hyde'ı tanımıştı.
+
+<MEKTUP OLAYI>
+
+O akşam Bay Utterson eve geldiği zaman, kapısında Poole'u bekler buldu ve onu beklenmedik bir zaman ve mevsimde görmekten memnun olmadı. "Ne oldu, Poole?" diye sordu.
+
+"Bay Utterson," dedi adam, "bir mesele var."
+
+"İçeri gir," dedi avukat, "ve bu ziyaret ne hakkında bana anlat."
+
+Kütüphanede, ateşin yanında güzel bir karşılama vardı, Poole anlatamadı ve adam şaşırdı. "Şimdi," dedi Utterson, kapıyı kapatıp şömineye yaklaştı, "açıkça bana endişenin ne olduğunu söyleyebilir misin?"
+
+"Bay Utterson," dedi adam, "bir tuhaflık var."
+
+"Otur ve bu şarabı içerek bana anlat," dedi avukat. "Şimdi, rahat bir zamanında, sorun nedir?"
+
+"Biliyorsunuz efendimin yollarını, beyefendi," cevapladı Poole, "ve nasıl evine çekildiğini. Şimdi, laboratuvarında kilitli. Şimdi, efendim, bir kez daha öyle. Peki, beyefendi, bugün oradaydım ve efendim bana seslenmedi. Şimdi, beyefendi, kapıdan konuştuğunu duyduğumda, öyle garip bir ses ki tanınmaz haldeydi. 'Poole,' dedi, 'dua ederim bana biraz ilaç ve bir bardak getir.' Şimdi, beyefendi, ben ilaçları ve bardağı getirdim, laboratuvarda olduğum zamanlarda, gördüm. Ve yüzüm sanırım belli ediyordu efendime, çünkü kapı hızla açıldı ve hemen beni kapının önüne, dışarı kovaladı. 'Poole,' dedi, 'Tanrı adına dua ederim, bırak beni' dedi."
+
+"Şimdi, beyefendi," devam etti uşak, "göründüğümü görünce, doktor olduğunu söylediği başka bir adam için beni gönderdi ve o efendimi teskin etti. Ben dün getirdim, ve onu gördüğümde, onu efendimin kapısında bıraktım."
+
+"Şimdi, şimdi," dedi avukat, "bu çok ciddi görünüyor, Poole; ama belki de aşırı yorumluyorsun. Efendinin neden öyle sese sahip olduğunu anlıyorum; ama neden Dr. Lanyon'u gördün?"
+
+"Ah, efendim," dedi Poole, "eğer bilseydim! Efendim ve Dr. Lanyon..."
+
+"Tamam," dedi avukat, "efendinin rahatsız ve hasta olduğunu anlıyorum; ve bu senin sadakatin nedeniyle endişelendiğini gösteriyor. Çok güzel, Poole, ve gerçekten minnettarım. Ama Dr. Jekyll'in hasta olduğuna eminim ve bu beni rahatlatıyor."
+
+"Beyefendi," dedi Poole, yüzü gerçekten soldu, "efendim çok değişti."
+
+"Değişti mi?" dedi avukat. "Kaç zamandır?"
+
+"Şey, beyefendi," dedi Poole, "yaklaşık bir haftadır hiç görmedim; ve şimdi, beyefendi, doğrusu değişti."
+
+"Bir hafta görmedim?" dedi avukat. "Onu en son ne zaman gördün?"
+
+"Hiç görmedim, beyefendi, neredeyse," dedi Poole. "Bu kapalı kapı. Geceleri bile kapalı kalıyor. Ah, beyefendi, neredeyse hiç göremiyorum."
+
+Avukat, şöminenin önünde ciddi görünüşlü bir yüzle "Poole," dedi, "seni sakin olmaya teşvik etmeliyim. Şimdi, bu uzaklık seni çok endişelendirdiğine göre, seninle birlikte gideceğim ve doktorla kendim konuşacağım. Eminim her şey açıklanacaktır. Yakanı ve şapkanı al, ve benimle birlikte hemen Dr. Jekyll'a gidelim."
+
+Bay Utterson, "Sir Danvers'ı öldüren adam kaçıyor," dedi ve biraz üzgün göründü Poole, "ve polis kafası karışmış. Katil hakkında bir şey biliyorsan, söyle."
+
+"Beyefendi," dedi uşak, "eğer gerçeği bilmek istiyorsanız, benim efendim..."
+
+Avukat, "Hayır, hayır," diye karşı çıktı. "Böyle bir fikri aklımdan geçirmiyorum. Efendini bir dakika bile suçlamadım. Ama şimdi, konuya gelelim. Birlikte doktora gidelim ve bizzat kendim konuşayım."
+
+Poole sakin bir şekilde eğildi. "En iyisi öyle, beyefendi."
+
+Bu konuşmadan sonra, Bay Utterson, yalnız odada kaybolmaya dair üzgün ve sorun dolu düşünceye daldı. Normalde, avukat zorluklar karşısında gülümseyecek bir kişiydi; ama şimdi bunun anlamını, doğru olup olmadığını anlayamıyordu. İlk tanımlama, basit; Dr. Jekyll, şimdilerde bir tür beyin hastalığına yakalanmış. Şimdi, normalde, pek inandığını söyleyemezdi, çünkü onu açıkça görmüş ve konuşmuştu; sadece on gün önceydi. Ama bazı seyrek durumlar anında güçsüzlük oluşturabilir. Poole, görünüşte, doktorla konuşmamıştı, bu tedirgin etmişti. Doktorun sesini tanımamak veya efendisini tanımamak gibi davranmak... Tabii, kabul ederdi, tuhaf. Ama gerçek nedir? Bunu anlayamadı, belki sadece hayal gücü. Ama, uzun zamandır edindiği bilgelikle, araştırmadan önce karar vermemeye çalıştı.
+
+"Hyde, sahip olduğu şeyi kaybetti," diye düşündü, "Şimdi, sanırım, kaçıyor. Ama nasıl? ve nereye? Hiçbir hazırlık, hiç eşya götürmedi, hiçbir şey. Ve sonunda, belki de mektubu daha fazla düşünmek gerekir." Masasına gitti, mektubu buldu, açtı, "Sevgili Utterson," diyordu, "Önceki gün Dr. Lanyon'dan bir mektup aldım, aynı konuya değiniyor."
+
+"Bazı küçük endişeler var, ama belki de önemsizdir. Eğer önemliyse, iyi niyetle araştıracağım. Al mektubumu ve git."
+
+"Jekyll'e teşekkür et, dedi, "ve söyle ki onu rahatsız etmedim. Eğer şüphesi varsa, onu tedirgin etmemeye çalışacağım. Görevimi yapmak için çaba gösteriyorum. Ama umarım ki onu rahatsız edenin ne olduğunu öğrenirim; önemsiz ise, korkmasına gerek yok."
+
+Böylece, avukat görevini yaptı ve Dr. Lanyon'a mektubu götürdü. Sadece bir hizmetçi onu karşıladı ve hastanın çok hasta olduğunu söyledi. Dr. Lanyon, bu görülmemiş kargaşada, yeni dostlar edinmişti; değişen kaderleri yüzünden mü? Bay Utterson şüphelendi. "Zavallı Lanyon," düşündü, "belki de benim dostluğum ona zarar verdi? Evet şüphesiz; Jekyll ya da Hyde, ikisinden biri zararlı oldu." Ama şimdi bir mektubu vardı, belki başka bilgiler bulabilirdi.
+
+Ertesi sabah posta ona Dr. Lanyon'dan ince bir mektup getirdi. "Sevgili Utterson," diyor, "ben ölmüş olacağım. Ölüm döşeğimde, bunun benim suçum olmadığını söylemeliyim. Şimdi bir süre yalnız kalmam lazım. Eğer Dr. Jekyll'i hala 'dostum' olarak görüyorsan, onun kapısını çalma. Utterson, seni şaşırtacak, ürkütecek ve tiksindirip korkutacak şeyleri biliyorum. Ama şimdi söyleyemem. Sadece, eğer adamın öldüğünü duyarsan, öğrenebilirsin. Hoşçakal, benim eski dostum."
+
+"Tanrım," dedi Utterson, mektubu bir kenara koyup kendi kendine, "Tanrım, umarım hasta değildir. Nedir bunun anlamı? Deli mi? Söylemeyeceğim ama..." Mektubu tekrar aldı ve daha dikkatli okudu. "Bekleyeceğim," diye düşündü. "Lanyon öldüğünde, herhalde bu gizemi çözeceğim. Ama o zamana kadar, sadece dikkat ve sessizlik benim sorumluluğum."
+
+Aynı gün akşam, Bay Utterson, Bay Richard'la görüştü ve genç adam, olağan gibi davrandı, sadece hafifçe morali bozuktu. "Eh, duydum," dedi, "zavallı Lanyon'un öldüğünü." Gözleri yaşardı. "Evet," dedi Utterson, "ben de duydum. Biz onu özleyeceğiz, gençler. Peki, sen ve Dr. Jekyll hala iyi arkadaşsınız değil mi?"
+
+Enfield, biraz donuk, "Onlar," dedi, "her zamanki gibi. Aslında, onları kısa bir süre önce gördüm."
+
+"Gerçekten mi?" dedi avukat.
+
+"Evet," devam etti Enfield. "Garip bir şey. Pazar günü seninle yürürken, bilirsin, sokakta, ve o eski hikâyenin yerinde, o garip kapı. Yukarı baktım ve bir pencerede, perdelerin arasında, çok hasta ve korkmuş görünen bir adam oturuyordu. Sadece kısa bir an, sonra aniden perdeleri kapattı. Sadece bir an görebildim ama, bana Dr. Jekyll'i hatırlattı. Elbette, sadece bir an görebildim, bir saniyeden az ve adamı iyi tanımıyorum; ama dediğim gibi, bana doktoru hatırlattı. Ve düşündüm, belki de doktor, beyin bilgisiyle, zavallı Hyde'ın ruhunu inceliyor."
+
+"Hadi, hadi," dedi avukat, "bunu konuşmayalım."
+
+<PENCEREDEKI OLAY>
+
+Bir Pazar günü, Bay Utterson yine alışılmış dostane dolaşmasında bulunurken, Bay Enfield ile tekrar aynı sokak köşesinden geçti, ve ikisi şu ünlü pencereye bakmak için durdu ve sonra yürüdü.
+
+"Evet," dedi Enfield, "hikâye bitti. Hyde'ı bir daha asla görmeyeceğiz; çok da iyi olur. Söyleyeyim, ben onu bir kez gördüm ve ondan aynı tiksinti hissini aldım."
+
+"Ne o?" dedi diğeri. "Napolyon şimdi hasta; hasta ve görünür."
+
+"Hasta mi?" diye sordu Utterson. "O mu? Bak galiba göremiyorum." Ve Enfield'a bakti.
+
+"Evet," karşılık verdi Enfield, "ve gördüğün gibi... Zavallı adam çok kötü görünüyor; ikimizin gördüğümüzü gördü ve bir korkmuş hayvan gibi perdeleri çabucak kapattı."
+
+"Peki o zaman," dedi avukat. "O benim dostum, çocukluğum ve gençliğimden, Enfield; vaziyeti çok tedirgin edici."
+
+"Bak," dedi diğeri, eski bir arkadaşlık korkusuyla, "seni incitmek istemedim."
+
+"Hayır," dedi avukat, "bunu anlıyorum. Çok sinir bozucu; bilmeni isterim dostluğun için müteşekkirim ve sana güveniyorum." Ve dedi, "Şimdi dürüstçe, bu pencereye bir kez daha bak. İkimizin Dr. Jekyll'i gördüğünü anlamış olmalısın."
+
+"Şimdi, abim," dedi Enfield, "bana düşüncesiz sözleri ima etme. Bir soru sorulduğunu biliyoruz; ama ben hala bir şey duymadım. Vazifemi biliyorum."
+
+"Aslında haklısın, çok iyi," dedi avukat.
+
+İkisi yürümeye devam ederken, sonra az önce gördükleri acıklı şeyi düşünüp tartıştılar. Dr. Jekyll, açık bir pencerede, bir mahkûm gibi otururken, bir korku ve umutsuzluk hissiyle doluydu; ve bakışı sadece bir an, ikisine korkuyla açığa çıktı, sonra ani çekilme. İki arkadaş sonra acıyla "Tanrı yardım etsin" diye mırıldandı, "Tanrı herkese yardım etsin!"
+
+<SON GECE>
+
+Bay Utterson bir akşam yemeğinden sonra şömine önünde otururken, kapısına beklenmedik bir ziyaret aldı. Poole'du.
+
+"Aman, Poole, ne istiyorsun?" diye bağırdı, sonra daha yakından bakarak ekledi: "Neyin var? Doktor mu hasta?"
+
+"Bay Utterson," dedi uşak, "bir şey var."
+
+"Otur ve bu şaraptan iç," dedi avukat. "Şimdi, vaktin varsa, neyin var, söyle."
+
+"Beyefendi," dedi Poole, "bu konuda kuşkularım var."
+
+"Anlat öyleyse," karşılık verdi Utterson.
+
+"Biraz önce korkmuştum," devam etti Poole, görmezden gelerek; "ama şimdi kuşkum yok, çok korkunç bir şey oldu."
+
+"Nedir o?" dedi avukat. "Açık konuş."
+
+"Cinayet sanırım," dedi uşak, yüzü kireç gibi beyaz.
+
+"Cinayet mi?" diye tekrar etti avukat, aniden korkan ve ürperen. "Kimden? Kim öldürüldü? Efendin mi?"
+
+Uşak, boğuk bir sesle, "Neden efendimin kapıyı açmadığına merak ettim," diye cevapladı. "Neden kimse sorularımıza cevap vermedi? Bütün o başka şeyler. Beyefendi, bu bir cinayet olabilir."
+
+"Poole," dedi avukat, "söylediğin şeyler çok ciddi. Sana soracağım biraz zor olabilir, ama net cevaplar istiyorum."
+
+"Anlıyorum, beyefendi," dedi Poole.
+
+"Umarım," dedi avukat. "Korkuyorsun; ama söyle neyi ima ediyorsun. Orada, laboratuvarda, biri gizlice yaşıyor, birileri, ve o kim?"
+
+"İşte, beyefendi, kim olduğunu bilmiyorum," diye cevapladı uşak; "Ama, vallahi beyefendi, efendim değil!"
+
+Bay Utterson'un yüzü aniden soldu. "Poole, söylediğin şey dehşet verici. Ne demek istiyorsun, efendinin olmadığını? Nerede o?"
+
+"Bir hafta önce bana seslendi ve ilaç istedi," diye cevapladı uşak. "Ve evet, sesi o değildi. O kim? Ama nerede? Bay Utterson, veya efendiyi öldürdü veya ne oldu, Tanrı bilir, ama ceset yok."
+
+Avukat titredi ve yere baktı. "Ama Poole, emin olmak lazım," dedi.
+
+"Bir hafta önceydi," tekrar etti Poole. "Ve ne olduğunu bilmiyorum. Efendimin sesi farklıydı. Gördüğüm—kişi—o efendim değil. Efendim uzun boyluydu, düzgündü; bu—şey, daha çok cüce ve tuhaf görünümlü, çarpık ve eğriydi. Evet, beyefendi, eğer o efendim idiyse, neden bir maske takıyordu? Neden perukasını ne yaptı? Ve neden tuhaf konuşuyordu?"
+
+"Peki, bu durum mantıklı görünüyor, Poole," dedi avukat. "Ama durum çok garip. Ancak sanırım, gidip kendi gözlerimle görmem gerekiyor."
+
+Kötü bir hava vardı, Londra'nın sokakları boştu. "Bir bela var," dedi Bay Utterson.
+
+"Ben de öyle, beyefendi," dedi uşak.
+
+Saat on civarıydı. Doktorun evine geldiklerinde, avlu ve mutfak tamamen sessizdi; sadece hafif rüzgâr sesi vardı. Uşaklar ateşin etrafında toplanmıştı, korku içinde. "Haklıydınız!" dedi Bay Utterson, onlara seslenerek. "Şimdi Poole ve ben inceleyeceğiz."
+
+Havaya baktılar. "İyi Tanrım, beyefendi, ne var?" dedi baş aşçı. "Çok tuhaf bir şey; hepimiz korkuyoruz."
+
+"Sessiz olun!" dedi Utterson, ve etrafta bakindi. Ev büyüktü. Bir tarafta bir amfi tiyatrosu, kimya ve anatomi için; bir tarafta da bahçeye bakan bir bina bölümü, sonra bir koridor, laboratuvara götüren. Koridor, mutfak, depo ve başka odalar arasındaydı ve sonunda karanlık bir köşeye çıkıyordu, eski bir ameliyathane odası. Poole, anahtarla kapıyı açtı ve korkmuş bir hizmetliden lamba ödünç alıp, avukatın önünden ilerledi.
+
+Ateş yavaşça yanıyordu, örümcek ağları tavandan sarkıyordu; cam ve çerçeveler tozlanmış, yerlerdeki kimyasal kutular, şişeler ve kitaplar dağınıktı. İn cineye rastlanmazdı. Avukat, "Bugüne kadar her şey normal. Hiçbir şey burada yok."
+
+Sonra teşrih masasına yaklaştılar. Üstünde farklı şişeler, ilaçlar ve cam şişeler vardı. "Şimdi Jekyll'in istediği budur," dedi Poole, bir şişeyi inceleyerek.
+
+Şişe yarı doluydu, kırmızımsı bir sıvıyla, "ve ben bunu iki haftadır ona getiriyorum, ama hiçbir sonuç alamıyorum. Şimdi getirdiğimde geri gönderdi. Dedi ki, 'Bu saf değil ve işe yaramaz'". Kızgındı.
+
+Bu konuşmanın sonunda, birden bir kapı açıldı, yukardaki koridordan bir ses geldi! "Poole!" diye bağırdı avukat, aşağı sesi. Poole'un beti benzi attı.
+
+"Bu sesi duydun mu?" diye fısıldadı uşak. Ve ses cevap verdi, acınacak halde, "Tanrı adına, yardım edin bana!" diye.
+
+"Bu onun sesi mi?" diye sordu Utterson.
+
+"Bu değil, beyefendi. Yaparsın, beyefendi, gelir ve kendiniz dinlersiniz."
+
+Karanlık koridordan, kabinet odasına gittiler. Üstünde alet ve ilaçlar, dosyalar ve doktorun belgeleriydi ama belli ki uzun zamandır kullanılmamıştı.
+
+"Şimdi, beyefendi, sessizce yanımda durabilir misiniz?" dedi uşak, bir parmak dudaklarına koyarak.
+
+Sessizlik oldu, sadece bir yürüyüşün sesi kütüphane zemini üzerinde, anlaşılıyor ki mahpus kişi parmaklarını birbirine vuruyordu.
+
+"Bu o değil," diye fısıldadı Poole.
+
+Ani davrandı. Omuzunu kapıya dayadı ve sertçe bağırdı, "Jekyll, efendim, açın!"
+
+Hiçbir ses yoktu. "Bu iyi değil, beyefendi, kapıyı kıracağız," dedi Poole.
+
+"Doğru söylüyorsun," dedi avukat. "Poole, hepimize, Jekyll'e veya bir tür hayduta karşı bir savaşa gireceğimizi söylemeliyiz. Eğer Jekyll'se, açmayı reddederse veya açamazsa, ona kaba davranmamalıyız. Bunu yapmamız gerekiyor."
+
+"Korkarız, beyefendi," dedi Poole. "Hepimiz evet."
+
+Hepsi büyük bir dikkatle kabinete merdiven ve balta getirdi ve şimdi grup kapının önünde toplandı. Poole, baltayı gümüş tutamağa indirdi, kilitler iki taraflı açıldı, tuzaklanmış kişi yukarı koşuyormuş gibi bir ses çıkardı. Sonra sessizlik geldi. Uşaklar, korkuyla geriye çekildiler, Utterson ve Poole savaşa devam etti ve neredeyse aynı anda kapıdan içeri adım attılar.
+
+Oda geniş, iyi aydınlatılmış ve içinde bir şömine, rahat bir koltuk ve güzel bir halı ve birçok raf ve çekmeceyle dolu mobilyaydı. Şimdi, kapı neredeyse kapalıydı, ve ateş alev alev yanıyordu. Havanın sessizliği içinde, su saati tik tak ediyordu. Odanın ortasında bir adam acıyla yere yığılmıştı, ve yaklaştıklarında, korkunç bir çığlık attı. Durdu. "Aman Tanrım!" dedi Utterson. Ve sonra, "Aman Tanrım!" tekrar, zira bu kişi, yerde, zayıf bir halde, kolları ve bacakları büzülmüş ve ölümün yüzünü gösteren Edward Hyde'di!
+
+Üzerinde büyük bir takım elbise vardı, belki Dr. Jekyll için yapılmış, bol geliyordu. Kırılan yüz kasları hala bir siyah ruhun kalıntılarını gösteriyordu; ve vücudun elinde parçalanmış bir tüp vardı.
+
+"Bu önemli," dedi Utterson, yüzünü sertleştirerek.
+
+Poole baltasıyla yerdeki cesede vurdu, şimdi titreyen ve bükülmüş kollar ve bacaklar titredi. "Öldü, beyefendi!" dedi. Hyde'ın üzerinde ayakta durarak. "Ve nasıl buraya geldi? Doğru mu, efendim; bu Hyde miydi? Bu mümkün mü? Efendim, bizim için dışarı baktığına yemin edebilirim."
+
+"Poole," dedi Utterson, "bu çok garip. Şimdi bir bakalım. Çok acı çektiği anlaşılıyor, ve sonra, Poole! Bu elbise Dr. Jekyll'in boyu için uygun elbise. Bu ne demek?"
+
+Uşak, titreyerek, "Ben size söylemedim mi efendim, Dr. Jekyll'in ziyaretçilerini değişik şekilde görmeye çalıştığını? Efendim, yüzünü hiç görmedim. Kendini gizlemeye çalıştı."
+
+"Doğru," dedi avukat. "Şuna bak! Hyde, siyanürle intihar etmiş gibi görünüyor. Şimdi, Poole, tehlikeli adam ölü. Şimdi Dr. Jekyll'i bulmak için her yeri aramalıyız, yaşıyor mu veya ölü mü?"
+
+Koridora döndüler ve doktorun odasını incelediler. Her şey düzenliydi, ama yatağı kullanılmamış gibiydi, şömine yanmıyordu ve kağıtları masada yanar ateş gibiydi. Sonra başka odaları incelediler. Her köşeyi aradılar. Odalar çok temiz görünüyordu, ama hiçbir ceset yoktu.
+
+"Jekyll yaşamıyor olamaz, beyefendi," dedi Poole. "O, veya o, yani Hyde, bir hafta önce buradan gitmiş olmalı. Olanları anlayamıyorum."
+
+"Poole," dedi avukat, "kabinenin tüm köşelerini aramalıyız."
+
+"Neden, beyefendi?" dedi Poole. "Peki, kabineti arayalım..."
+
+"Doğru," dedi Utterson. "Gerçek şu ki, Jekyll'i burada bulamıyoruz. Belki kaçtı! Veya belki kendini öldürdü, cesedi gömmemiz için, veya kendimi mümkün olduğu kadar gizliyorum." Kabinete girdiler, her köşeyi aradılar, ve sonra bir ayna ve masanın altına baktılar. Ama hiçbir şey bulamadılar. Sadece kapalı bir kapı ile küçük bir oda daha buldular, tamamen boş. "Bu çok tuhaf, Poole," dedi avukat. "Jekyll burada olmalı, ölü veya diri."
+
+"Veya belki kaçmış olabilir, beyefendi," dedi Poole, kapıya giderek. "Ama bu mektup! Masada, kütüphanede!"
+
+"Mektup mu?" dedi avukat. "Hangisi?"
+
+Uşak, büyük bir not kağıdını işaret etti, masanın üstünde. "Nasıl oldu da ben bu mektubu görmedim?" diye sordu avukat.
+
+"Zarfta, beyefendi, ve bana talimat verilmişti, açmam gerekiyordu."
+
+"Poole, bu mektup bana mı yazılmış?"
+
+"Bilmiyorum, beyefendi, ama zarfı açmadım."
+
+"Tamam, açalım," dedi avukat. "John Utterson Beye, ve gizli. İçeriği yoksa, yalnız yanana kadar." diyordu zarfta.
+
+"Cesede bakarken, düşündüm avukatın yüzünde müthiş bir korku vardı, çünkü bir an bile mektubu almak istemedi, ama sonunda, aynı soğuk kararlılıkla, zarfı açıp okudu. Ancak çok dikkatle bıraktı."
+
+"Poole," dedi avukat, "bu okumak için bize özel bir yer lazım."
+
+"Haklısınız, beyefendi," dedi uşak, mektubu koyup, "sessizce kabineden çıkalım. "Mektubu muhafaza et, biz şimdi onu okumak için bir yer bulmalıyız."
+
+Bay Utterson, kasası için, elini cebine koydu, "Hayır, hayır, biraz düşünelim, bekle. Ona bir göz atmalıyım. Bekle" diyerek, saatini çıkardı.
+
+"Ben söz veririm," dedi, "bu evrakı koruya... Saat on'a kadar... Kabinete dönelim."
+
+"Beyefendi, öyle, çok doğru," dedi Poole.
+
+Ateş sönmüş, belki de gecenin sersemliği nedeniyle, dışarıdan gelen bir gürültü, avluya üfürüyordu. Kapalı pencerelerin arkasından, maymun gibi bir karışıklık. Şimdi, tekrar dikkatlice, mektubu açtı ve okudu:
+
+"Sevgili Utterson, 
+
+Bu mektubu aldığında ben kaybolmuş olacağım, ama ne şekilde, o yüzden ortadan kaybolduğumu söyleyebilirim mi? Kayboluşumun koşullarında, bu hayatın nihai, büyük kaçınılmaz baskısı. Sonra, sevgili Henry Jekyll'in ne olduğunu öğrenmek için, kabul ediyorum, polis hikâyesi okur gibi, Dr. Lanyon'un bıraktığı kağıda bak; burada, masanın üstünde, Dr. Lanyon'un tarihi yazan, benim kendi tarafımdan yazılmış, bir kaç kelimelik sayfalar sana daha çok öğretebilir.
+
+Çok sevdiği dostum, asla bir dost olarak bu kadar değerli olmadı. Belki korkuyla düşünüyorsun; ama eğer okursun, bu kağıtları, korku yerini merhamete ve gözyaşına bırakabilir. Sadece şimdi saate bak, dokuz mu, henüz odan rahat bir halde mi? Ses, tehlikeli veya çirkin bir ses, pencerenin dışından duyuluyor mu? Eğer öyleyse, dostum, Tanrıya şükürle, devam et, çünkü tehlikeden kurtulmuşsun. Henry Jekyll'in, veda mektubu:
+
+"Henry Jekyll"
+
+Sonra bir not, "Burada kapalı, Dr. Lanyon tarafından açılacak zarfı buldun mu?" diyen bir not daha.
+
+"Poole! Şimdi üçüncü bir belge var, bu Dr. Lanyon'un zarfında, Henry Jekyll'e gönderildi, özel, ve bana, evdeki doktorun öldüğünü duyuruyordu. Bu çok tuhaf, bu belgelerde neler olacak? Şimdi, bir süre için kapalı kalmalı. Dr. Lanyon'un dedikleri son sözlere göre, Dr. Jekyll artık yok, kaçmış mı bilmiyoruz. Ama bana kalırsa, Hyde ölümden kaçmış ve cezasını kendi eliyle vermiş. Poole, Dr. Jekyll'in ne olduğunu bu gece öğreneceğiz; şimdi, evimize gidip bu belgeleri sakin ve özel olarak okuyalım."
+
+<DR. LANYON'UN ANLATISI>
+
+9 Ocak 18--'de, dört gün önce, sabah kahvaltısı sırasında, aşağıdaki mektubu aldım:
+
+"10 Aralık 18--
+Sevgili Lanyon, sen benim en eski arkadaşımsın, her ne kadar zaman zaman bilimsel görüşlerimiz farklı olsa da, dostluğumuz, en azından benim tarafımdan, kırılmış değil. Herhangi bir zamanda 'Lancet Jekyll'le birlikte değil' desem, içtenlikle kendimi düşünürdüm; bugün, bu önemli bir konu. Lanyon, hayatım, onurum, akıl sağlığım senin yardımına bağlı. 
+  
+Senden özel bir iyilik istiyorum: her şeyi bırakıp, mektubumu alır almaz, benim için bir işi tamamlamanı istiyorum. Poole, benim hizmetkârım, bu mektubu sana tam talimatla getirdi. Çek ve kilit altında bulunan, tamamen tanıdığın çekmecemden, TÜM içeriğini alıp, bütün paketlerle, özellikle, en üstte kırmızı mumla mühürlü bir çekmeceden alıp hepsini topluca, olduğu gibi, kendi evine götürmeni istiyorum. Sonra gece boyu bekleyip, tam gece yarısında, bir beyefendi gelecek ve adımı söyleyecek. O adama kutuları teslim et. O zaman, görevini tamamlamış olacaksın. Bu acil ve önemli bir konu olduğu için, sadece bugün akşam gelip sana sormazsam, yarın sabah benim odama git. Odamda bir mektup var, tam olarak ne istediğimi açıklayacak, ve ne dereceye kadar dostluğuna güvendiğimi anlayacaksın. 
+  
+Sevgilerle, eski dostun, H.J."
+
+"Not: Kutuyu kendi ellerimle açmamanı rica ediyorum, çünkü gecikme çok tehlikeli sonuçlar doğurabilir."
+
+Bu mektubu okuduğumda, arkadaşımın aklını kaybettiğinden emindim; ama o gelene kadar, onunla anlaşmak zorundaydım. Eğer şüphelerim doğru ise, ona ne yapacağımı bilmiyordum; eğer yanılıyorsam, tüm şüphelerimi görmezden gelmeliydim. Poole beklerken, en yakın polisiye romanın bile böyle bir yazıya ihtiyaç duymayacağını düşündüm.
+
+Hizmetçiye anladığımı ve ona yardım edeceğimi söyledim. Poole, Cavendish Meydanı'na götürdü ve Dr. Jekyll'in evine girdik. Kâhya bizi bekliyordu: kapıyı açtı ve hizmetçimi alarak beni oranın doktor odasına götürdü, şömine yanıyordu, masa üstünde bir lamba vardı, bardaklar hazırdı.
+
+Kâhya sonra beni yalnız bıraktı. İçinde tüm notların ve düşüncelerin olduğu, "E" işaretli bir çekmece açtım. Üstteki bir tanesi kırmızı mumla kapatılmıştı, içinde bir toz, bir tüp kristal gibi bir şey, ve küçük bir kağıt parçası vardı, üzerinde şunlar yazılıydı: "Dr. Jekyll'in evdeki ilacının içeriği". Onu aldım ve eve gittim, ve sonra bir nota baktım.
+
+Saygıdeğer bir doktor olarak, bu yazı el yazısı, ancak içeriği çok garipti. Kutuları ve diğer şeyleri güvenli bir yere koydum ve Jekyll'in adına, gece yarısına kadar bekledim. Tam o saatte, kapıma biri gelip, Dr. Jekyll'den geldiğini söyledi.
+
+O adamı hayatımda hiç unutmayacağım. Küçük bir adamdı, çok güzel giyimli, gösterişli ama ucuz giyimli, ve ondan tiksinti duydum. Yüzü çok solgun ve kötüydü, ancak bir şekilde güçlü bir nefret hissi duymuyordum.
+
+"Dr. Lanyon mısınız?" diye sordu, sertçe ve neredeyse kaba bir şekilde.
+
+Evet dedim, onu takip ettim. "Dr. Jekyll'den mi geliyorsunuz?" diye sordum.
+
+Yüzü sinirlendi. "Hyde değildi, Bay Edward Hyde, ama Dr. Jekyll'in evinden geliyordu." dedim, "Güvende midir?"
+
+"Güvende mi?" diye tekrarladı, şaşkın bir sesle. "Neden bunu soruyorsunuz?" Belki sesi biraz öfkeliydi. "Dostunuz Dr. Jekyll hasta. O için endişeleniyorum." dedim.
+
+"Doğru," dedi diğeri. "Çok doğru. Dr. Jekyll'in durumu beni çok endişelendiriyor. Bu, sizinle konuşmak isterim. Ama önce, Dr. Jekyll'in bahsettiği kutu veya çanta nerede?"
+
+Kutuyu ona verdim, içindeki ilacı aldı ve sonra bana döndü: "Şimdi Dr. Lanyon, düşünün, kararınızın zamanı geldi. Önünüzde iki olasılık var. Ya beni bırakın, ve sizden ödünç aldığım şeyle, ya da yeni bir bilginin sınırlarından öteye bakın. Kararınız ne olacak?"
+
+"Böyle bir seçim yapmanın ne anlamı var?" diye sordum. "Merakım için bilim gerçeklerine bakacağım."
+
+Çok mutlu görünüyordu. "Çok iyi!" diye cevapladı. "Lanyon, şunu hatırla, eski bilimsel bakış açıları, dar görüşlülük, zihniyet... ve Darwin'in zamanında hala yaşamayanların değerlerini hatırla. Şunu gördüğünde şaşıracaksın. Otursana."
+
+Beni kızdırdı ama kabul ettim. Ona baktım. İlaçları aldı, tüp ve toz, bir bardak suya koydu, sonra bana baktı, biraz kızardı, ben ondan daha fazla kızardım. "Şimdi," dedi, "gülmek mi yoksa korkmak mı, çünkü ölüm geliyor, veya yeni bir yıldız, yeni ışık doğacak. Bu içtiğimde, Tanrı şahidim, ya ölecek, ya da bir şekle bürünecek, ki şaşkınlıktan çeneni kapayacaksın. Ve şimdi, Lanyon, bana bak." Bardağı bir dikişte içti ve Tanrı'ya şükürler olsun ki, özel bir şey olmadı, sadece bir an titredi, ve sonra onu köşede bıraktım.
+
+Sonra bir tuhaf ses çıkardı, solumaya başladı. Yüzü şişmeye, kararma başladı, sanki nefessiz kalıyordu. Sonra birden, bir anda, o, hayır, biri, çığlık attı. Ve sonra, delice terlemeye, sarsılmaya başladı. Durdu ve bana baktı, bir garip gülümseme vardı, ve sonra, "Sevgili Lanyon," dedi, "adamın başı kesilmişti, yüz ifadesi öyle değişmişti ki, şaşkınlıkla ona bakakaldım. Çünkü onun önünde durduğu kişi, ağır ve nefes alan kişi, benim eski arkadaşım Henry Jekyll'di!"
+
+Gördüğümü anlatan kelimeler yok. Bay Hyde, Dr. Jekyll olmuştu. Karşımda oturuyordu, zayıf ve titrek. Benimle konuşmaya çalıştı, ama korku, dehşet ve şaşkınlıkla ona bakıyordum.
+
+"Lanyon," dedi, "korkmuyorsun! Gördüklerinden sonra, şimdi biliyorsun, değil mi?" dedi. "Tanrım! Tanrım!" dedim ve tekrar tekrar. "Lanyon," dedi, "Tanrı seni affetsin, ama beni affet! Bu dehşet saatinde, sesimi dinle, ve belki seni teselli edebilirim. Lanyon, sana her şeyi anlatacağım. Sana anlatayım!"
+
+Ama ben dinlemeyecektim. "Durma! Tanrı adına, konuşma!" dedim, "Ben bu geceden sonra onu görmek istemiyorum, onu duymak veya aklıma getirmek istemiyorum; daha çok bilmek istemiyorum. Görünen ve duymak zorunda olduğum şey, aklımı kaçırmama neden oldu."
+
+"Çok iyi," dedi, "içindeki sayfaları aç. Orada her şeyi bulacaksın. Hoşça kal, Lanyon!"
+
+Bu olaydan sonra, ciddi bir şekilde hastalandım. Tanrının varlığı, bendeki bilimselliğin azalmasına neden oldu, çünkü, Lanyon gördü, duydu ve korktu; bu utanç tehlikesiyle aklım kaçtı, ben ölüyorum ve ölüyorum. Gördüklerinin dehşeti, hala kalbimde, kanımın içinde, uyanık ve uyurken beni rahatsız ediyor. Ve bunu duyunca, ben sonunda öldüm, ve Henry Jekyll de öldü.
+
+Bu ifadeyi daha fazla devam ettirmeye cesaret edemiyorum. Çünkü, bilmediğim bu sonuçla, Hastings Lanyon."
+
+<HENRY JEKYLL'IN OLAYA DAİR TAM AÇIKLAMASI>
+
+Dünyaya geldim, 18--, şanslı bir şekilde. Doğuştan zengin, sağlam bir vücuda sahip, hayatımı saygın bir konumda buldum ve çalışkanım. Temel karakterim, her zaman eğlence için arzulu olmaktı. Ama ikili doğam vardı, diğeri için kuvvetli istek de vardı; gizlice; iki tarafı dayanılmaz şekilde vardı. İnsanlar bana kendi ikiliğimi anlattı, ve ben her iki tarafıma da sahip çıktım, ve geleneksel bir ikiyüzlü gibi iki ayrı yolda yürüdüm. İkinci Ben, kendi gururumu, onurumu yok ediyordu, ve genç, yüksek, dürüst, bu yaşam teklifinin en iyi örneklerinden biri olmak isterim; kendimi aldattım, gizli zevklerimin içine dalarak.
+
+Gerçek şu ki, doğuştan iki doğam vardı; ve bir alimden öğrendim: yani insan sadece tek değil, iki kişidir. İki kişi, komşu olarak, birlikte, birbirine karşı yaşar. İlgilendiğim, bu iki doğanın olduğu önermeydi. İki kişi derken, benim için doğru olan şeyi söylüyorum, ben için iki kişi vardı; kendi içerimde, doğumdan beridir, ikili bir kişiliğim var, diyorum.
+
+Tıbbi ve manevi eğilimlerim, beni bu konuda uzmanlaştırdı, ve edindiğim bilgilere göre, insan iki taraflıdır, ve bu benim için bilimsel bir doğrudur. Günün ortasında yaptığım deneyler, etrafımdaki iki dürtünün mücadelesiyle, her ikisinin de benim olduğunu, insanların ikili doğasını kavradım. Birisi iyi, biri kötü. Bunlardan birinin benim için çok kötü olduğunu kavradım. Doğa ikilerini suç, günah içi yaratmamıştı, insanı kurtarmak ve kurtarmak için, iyi bir denge içinde. Ya doğa bir tarafı ikinci taraf, iyilik ve kötülük.
+
+Bu sonuçlara vardığımda, zihnimde bir soru vardı: doğanın iki yarısını ayırmak mümkün mü? O andan itibaren, düşüncelerim sürekli bu yöndeydi. En sonunda, kendimi Tanrının bir lütfu olarak, yaşayan oğlu, insan vücudunu ayırmayı sonuçlandırdım. Çalışmalarım, sadece ahlaki ve entelektüel değil, fiziki olarak da bu ikiyi, iyi ve kötü insanı herbirini birbirinden ayırabilirdim.
+
+Bu sonuç şu ki, benim için olanakları gösterir. Bunu takip eden durum, olağanüstü deneylerle, yıllarca laboratuvarda, doktor olarak çalışarak, kendimi yüce rüyada yönlendirdim. Yeni bir ceset keşfettim, tozu beyaz ve kristal halde, sıvı şeklinde onu damla damla karıştırınca, rengini değiştirmeye başlıyordu.
+
+En sonunda bir gün, deneyler ve başarısızlıklardan sonra, laboratuvarda son adımı attım ve içeceğime son maddeyi koydum. Mavi sıvı köpürdü, kızardı, sonra kurşun rengi oldu. Bir an durdum ve bir yudum aldım.
+
+Tarif edilemez bir acı hissettim. Kemiklerim kırıldı, mideme kadar inen bir bulantı, ve bir ürpertici soğuk ve korku hissi. Sonra, bu acı geçti ve yeni duyuları fark etmeye başladım. Daha hafif, daha mutlu, daha genç hissetmeye. İçimde, yeni bir güç, bir çeşit ahlaksız bir sevinç, zor ifade edilemez bir haz, özgürlük vardı. Vücudum küçülmüş görünüyordu.
+
+O anda, aynadaki görüntüm beni geri çevirdi.
+
+Edward Hyde, daha önce hiç görmemiştim. Ve bu benim değildi, çünkü aynada gördüğüm vücut Henry Jekyll'inki değildi. Bu farklı biriydi, daha küçük, daha genç, ve daha kötüydü, içimden gelen, tamamen kötülüktü. Ben, Edward Hyde'dım!
+
+İlacımın düşüncesi şuydu, ruhun ikiliğini ayırmak, kötülüğü dışarı atıp, iyiliği üstün tutmak. Ama vücut ruhun giyimidir, ve o gün, bu küçük kötülük görünen vücut, için, Henry Jekyll'in kötü yanıydı. Ben Edward Hyde'dım! Bu inaılmaz bir şey. Kimse beni tanımıyordu. Kısa zaman önce ben herkes tarafından tanınan biriydim, onurlu biriydim, ama şimdi ben yeni biriydim. Herhangi bir normal insan ondan nefret ederdi, bu korkunç, şekilsiz ve istenmeyen bir karakterdi.
+
+Sonrada kendi laboratuvarıma gittim ve yeni bir ilaç hazırladım. Ve onu tekrar içtim. Yine aynı acı, tekrar kemiklerim kırılır gibi hissettim, ve çok geçmeden aynaya baktım, ve ben Henry Jekyll, tanıdık yüzdüm.
+
+O gün çifte hayatımın başlangıcıydı. Gündüz, ben iyi doktor olurdum, gece, yeni görünüşümle, kötü yönümün peşinden koşardım. Eğer kötü gece eğlencelerinden yorgun düşersem, sabah tekrar laboratuvara döner, "Dr. Jekyll'in içeceği"nden içerdim, ve yeniden iyi Adam haline gelirdim.
+
+İki insanın karakteri arasındaki fark büyüktü. Kötülük, doğuştan, diye düşünüyorum, benim Hyde yanım, küçük, zayıf ve gençti. İyi taraf, vicdanım, olgunluk ve yaşla gelişmişti. Bu yüzden, iyiliğin yüzü daha büyük, daha olgun, daha yaşlıydı, buna karşılık kötülük yüzü daha ince, daha vahşi ve gençti. Kötü yüz çirkin, tiksindirici, ve insanlar ona baktığında tiksinirlerdi. Bu, benim için mantıklıydı, çünkü iyi ve kötü eşit değildi vücudumda. Kötü yüz vücudumda daha küçük bir yere sahipti, çünkü hayatımın çoğu iyiydi. Ben Hyde olduğumda, dışarıda kötü şeyler yapardım, eve döndüğümde Jekyll olurdum ve vicdanımı rahatlatırdım. Sonra vicdansız bir kişilik olan Hyde tekrar özgür olurdu.
+
+Deneyim başta güzel bir şeydi. İçimde bir sevinç, bir özgürlük duydum. Hyde, Jekyll'in isteklerini yapıyordu, ve Jekyll, Hyde'ın yaptıklarına üzülmüyordu. Onlar iki farklı kişiydi. Jekyll bilimsel merakta, dini gibi iyiydi. Hyde, vahşi, kötülük dolu, günahkârdı. Jekyll ve Hyde iki farklı kişiydi, Hyde her şeyi yapabilirdi, Jekyll sadece iyi. Bu bir süre devam etti.
+
+Sonra bir akşam, çok geç bir saatte, kendimi yataktan çıkarıp, Hyde'a dönüştüm, olağan gecede dışarı çıktım. Tekrar Hyde olarak evi terk ettim. Saatin farkında değildim, ama sokaklar oldukça boştu, lamba ışıkları parlakça yanıyordu, ve dışarıda soğuk, ıslak bir havada buğulu bir gece vardı. Köşede küçük bir kız, koşarak bana çarptı. Ben onu çiğneyip devam ettim. Arkamdan bağırdılar, ve beni yakaladılar.
+
+Tanıdı, itiraf ederim, bir saniye sonra beni korkuttu. Ama o noktada, ne göz yaşı ne de çığlık, hiçbir şey beni etkilemedi. Sadece öldürme isteği vardı. Onlar şantaj yaptı, ve ben bir doktor olarak biliyordum beni takip edebileceklerini. Dr. Jekyll'in odasına gittim. Aynaya baktım, kendimi sakin tuttum, "Onlara para ver, Utterson'ı çağır, her şey düzelir," dedim. Ben Hyde kılığındaydım, ve Dr. Jekyll'in çekleri işe yaramazdı. Onlara para verdim. Onlara Jekyll'in evini gösterdim, çeki verdim. O zaman, durum değişti. Jekyll'in konuta sahip olma durumu, ve Utterson'ın onun vasiyetine karşı şüphesi belirlendi. Daha dikkatli olmalıydım.
+
+Sonra, aklı başında bir kişi bir kez içeceğimi kontrol etti, ve herhangi özel bir durumda içmem gerekip gerekmeyeceğini düşünürdüm. Hyde'a dönüşmenin tehlikeli olabileceği zamanlar vardı. İçmem gereken anlar oldu, ve kişilik değişimi o kadar güçlüydü ki, zihnimin kontrolü altında bir açmaza girdi. Bir süre için Hyde'ı bastırdım, ama sonra o daha da güçlü çıktı.
+
+Bu süre içinde, iki ayda bir Hyde kişiliğimden kurtuldum. O kadar tehlikeli görünüyordu ki, tüm hayatım ve ruhum için, içimdeki Hyde'ı dışarı çıkarmayacağıma yemin ettim. Sanırım bu yemin, korktuğum şey, beni kontrol altında tutuyordu, artık bir daha Hyde'a dönüşmeyeceğim, diye söz verdim. Ama belki de daha önce bahsettiğimiz gibi kendimi iki kişiliğe böldüm, ve iki düşünce bir arada, tamamen ayrı, aynı bedene sahipti.
+
+Sonra o gün oturma odamda otururken, o gün Hyde oldum, çünkü içimde bir çıkar durumu vardı, saf değildi, kötülüğün en kötüsü olan kibir. Et hanında, kötülük uykusundaydım. Ellerim çok hızlı çalışmaya başladı. Bir tür öfke, cinnet beni tuttu. Ben bu adamın adını biliyordum, dünyanın sevdiği ve saydığı biri. Onu yere çarparak öldürürken, öylesine bir tuhaf bir sevinç duydum ki, ve ellerindeki görüntüsü hafızamda taze ve parlak olarak duruyor. Tepeye çıkıp yıldızları gördüm. Onlar bana yalan söyledi, ve ben de içimde saklandım. Ben dışarıdaydım, Hyde olarak.
+
+Sonra panik içinde evin içine daldım ve ben tamamen kötü varlık değildim. Üstüm dışımın düşüncesiz kıyafetleri, çok uyumsuz Jekyll olarak; ilacımı hazırladım ve içtim. Jekyll gibi yeniden doğdum. Ama Hyde'ın yaptığı suçlar Jekyll'in omzundaydı. Jekyll'in vicdanı suçluluk, Hyde boş bir el, sadece tehlikede korkuyla, hazırlıklı kaçmak. Bütün planlarım değişti. Sahte isimim Edward Hyde ile kiralayan yer artık polis tarafından aranıyordu, ve ben biliyordum, şimdi ben bir katilim. Bu şekilde olmayı asla istememiştim.
+
+Kendi kendime, "Jekyll artık asla Hyde'a dönüşemez," dedim. İçeceğimle tüm Hyde şişelerini Cavendish Meydanı'ndaki evime kadar taşıdım. Enfield'in görmüş olabileceği Dr. Jekyll'in üst kattaki pencerelerde, Hyde'ı görmesinden korktum. Ben eskiden, kutsanmış bazı günlerde, ilaç içip şeytandan kurtulurdum, benliğimden; şimdi ilaç içiyordum, çünkü iyi benliğimi yok ederdi. Ben bir canavar oldum. Bir canavara dönüştüm.
+
+Ama bir gün, parkta yürüyüşümde, yorgun hissettim ve oturdum, ve Hyde benden ayrılmaya başladı. Bağlılığım ve içeride sakin bir huzur hissettim, vicdan azabı çekmeden. Mümkün değil miydi, diye düşündüm, çift hayatı devam etmek? Hayır, o kadar düşünce ve suçlama içinde boğuluyordum ki, Henry Jekyll'in Hyde, Edward Hyde'ın Jekyll olduğunu herkes biliyordu, ve etrafımda bir değişim vardı.
+
+Ve sonra büyük son! İçeceğim tükeniyordu. Eczaneden yeni malzeme aldım, ama karışım aynı sonucu vermiyordu. Değişik karışımı denedim, ama hiçbiri işe yaramıyordu. Ve şimdi, Dr. Lanyon'dan öğrendim, bir iyileşme iksiri sonsuza dek imkansız. Ve yavaşça içimdeki kötülük olan Hyde'a daha sık teslim oluyordum. Jekyll'in bilimsel düşüncesi, ahlaki cesareti değişti. İçimde, Hyde kişiliği tamamen dışarı çıktı, ve sonunda, Hyde olmaya başladım. Bir kez kendi oturma odamda uyuyakaldığımda, Hyde olarak uyandım, sonra içeceğim tükendi, ve benim için hiçbir kurtuluş olmadığını anladım. İçeceğimin ortasında, tam içerken, şiddetli bir acı hissettim, ve sonra o yok oldu. Ben Hyde oldum. Korktum ve kaçtım.
+
+Birkaç saat önce artık Henry Jekyll değilim, ve bu son itiraf zor. Sonuç olarak, tüm hikâyemi anlattım, ve bu hayattır yeni içeceğim artık kalmadı ve Hyde oldum, içeceğim bitti, hayatımın geri kalanında Hyde olacağım. Hikâyemi nasıl tamamlayacağımı biliyorum, ama neyin bize karışabileceğini bilmiyorum. Jekyll'in hikâyesi tamamlandı. Yoksa sonuna geldi mi? Belki bir gün Hyde yakalanır, belki de kaçarım, belki tamamen hayattan kayboldum, her neyse, bu herkesi öldürecek...
